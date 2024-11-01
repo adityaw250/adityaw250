@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">👋 Hey There! I am <a href="https://github.com/yourusername" target="_blank">Your Name</a></h1>
-<p align="center">I'm a full-stack web application developer from [Your Country]</p>
+<h1 align="center">👋 Hai Guys! Aku <a href="https://github.com/yourusername" target="_blank">Adity Prasetyo</a></h1>
+<p align="center">Aku seorang FrontEnd Developer, aku berasal dari Indonesia</p>
 
 <!-- Badges -->
 <p align="center">
